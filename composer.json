@@ -1,0 +1,17 @@
+{
+    "name": "package/firstpackage",
+    "description": "First Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sapan mohanty",
+            "email": "ctoattraveltech@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"package\\firstpackage\\": "src/"}
+    },
+    "require": {}
+}
