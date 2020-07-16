@@ -9,7 +9,6 @@
             "email": "ctoattraveltech@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"spackage\\firstpackage\\": "src/"}
     },
