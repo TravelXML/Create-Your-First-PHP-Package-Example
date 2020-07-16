@@ -1,7 +1,7 @@
 <?php 
 
 
-namespace package\firstpackage;
+namespace spackage\firstpackage;
 
 class Index
 {

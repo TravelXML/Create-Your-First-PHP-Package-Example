@@ -1,5 +1,5 @@
 {
-    "name": "package/firstpackage",
+    "name": "spackage/firstpackage",
     "description": "First Package",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"package\\firstpackage\\": "src/"}
+        "psr-4": {"spackage\\firstpackage\\": "src/"}
     },
     "require": {}
 }
