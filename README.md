@@ -1,4 +1,4 @@
-# PHP Package Example
+# Write Your First PHP Package, PHP Package Example
 A quick test composer package, published on Packagist
 
 RUN: composer require spackage/firstpackage:dev-master
@@ -15,4 +15,4 @@ $greeting = new Index();
 
 echo $greeting->greet("Hello Composer");
 
-
+enjoy coding :)
