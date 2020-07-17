@@ -3,7 +3,7 @@ A quick test composer package, published on Packagist
 
 RUN: composer require spackage/firstpackage:dev-master
 
-then run your code here
+then run below code here
 
 
 
